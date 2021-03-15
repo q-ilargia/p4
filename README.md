@@ -15,6 +15,7 @@ Las decisiones tomadas fueron qué teclas emplear para cada opción, desglosando
 -Dividir todo en 4 clases para una mayor modularidad.
 -Teclas W A S D para el movimiento por la costumbre de videojuegos
 -Teclas de dirección (flechas) para rotar la cámara por ser intuitivo
+-Debido a que es un movimiento por el espacio se ha añadido que sea la nave de la serie Futurama lo que viaje, a modo de tributo y detalle gracioso
 
 # Problemas de diseño
 No haber sido capaz de quitar el texto de los controles al iniciar la nave
